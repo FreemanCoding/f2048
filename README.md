@@ -1,2 +1,1 @@
-2048Fencer.github.io
-====================
+Made just for fun. [Play it here!](http://amschrader.github.io/2048/)
