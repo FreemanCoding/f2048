@@ -333,13 +333,14 @@ hr {
 	box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
 }
   .tile.tile-8 .tile-inner {
-    background: #f2b179;
-    background-image: url("../im/facetilefinal.png");
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    font-size: 0px;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
+	background-color: #F3B886;
+	background-image: url("../im/facetilefinal.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	font-size: 0px;
+	box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0);
+}
   .tile.tile-16 .tile-inner {
     background: #f59563;
     background-image: url("../im/facetilefinal.png");
@@ -349,21 +350,23 @@ hr {
     font-size: 0px;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-32 .tile-inner {
-    background: #f67c5f;
-    background-image: url("../im/facetilefinal.png");
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    font-size: 0px;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.07937), inset 0 0 0 1px rgba(255, 255, 255, 0.04762); }
+	background-color: #F46340;
+	background-image: url("../im/facetilefinal.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	font-size: 0px;
+	box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.07937), inset 0 0 0 1px rgba(255, 255, 255, 0.04762);
+}
   .tile.tile-64 .tile-inner {
-    background: #f65e3b;
-    background-image: url("../im/facetilefinal.png");
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    font-size: 0px;
-    box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.15873), inset 0 0 0 1px rgba(255, 255, 255, 0.09524); }
+	background-color: #F44016;
+	background-image: url("../im/facetilefinal.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	font-size: 0px;
+	box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.15873), inset 0 0 0 1px rgba(255, 255, 255, 0.09524);
+}
   .tile.tile-128 .tile-inner {
     background: #edcf72;
     background-image: url("../im/facetilefinal.png");
