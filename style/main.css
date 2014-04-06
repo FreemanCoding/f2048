@@ -350,7 +350,7 @@ hr {
     font-size: 0px;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-32 .tile-inner {
-	background-color: #F46340;
+	background-color: #F57657;
 	background-image: url("../im/facetilefinal.png");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
@@ -368,7 +368,7 @@ hr {
 	box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.15873), inset 0 0 0 1px rgba(255, 255, 255, 0.09524);
 }
   .tile.tile-128 .tile-inner {
-	background-color: #F2DB97;
+	background-color: #EED27D;
 	background-image: url("../im/facetilefinal.png");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
@@ -376,12 +376,13 @@ hr {
 	font-size: 0px;
 }
   .tile.tile-256 .tile-inner {
-    background: #edcc61;
-    background-image: url("../im/facetilefinal.png");
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    font-size: 0px; }
+	background-color: #E7BD32;
+	background-image: url("../im/facetilefinal.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	font-size: 0px;
+}
   .tile.tile-512 .tile-inner {
     background: #edc850;
     background-image: url("../im/facetilefinal.png");
