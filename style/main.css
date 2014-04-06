@@ -376,7 +376,7 @@ hr {
 	font-size: 0px;
 }
   .tile.tile-256 .tile-inner {
-	background-color: #E7BD32;
+	background-color: #EBCA5B;
 	background-image: url("../im/facetilefinal.png");
 	background-size: 100% 100%;
 	background-repeat: no-repeat;
@@ -384,26 +384,32 @@ hr {
 	font-size: 0px;
 }
   .tile.tile-512 .tile-inner {
-    background: #edc850;
-    background-image: url("../im/facetilefinal.png");
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    font-size: 0px; }
+	background-color: #E8BB27;
+	background-image: url("../im/facetilefinal.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	font-size: 0px;
+}
   .tile.tile-1024 .tile-inner {
-    background: #edc850;
-    background-image: url("../im/facetilefinal.png");
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    font-size: 0px; }
+	background-color: #E8B922;
+	background-image: url("../im/facetilefinal.png");
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	font-size: 0px;
+}
   .tile.tile-2048 .tile-inner {
-    background: #edc22e;
-    background-image: url("../im/facetilefinal.png");
-    background-size: 100% 100%;
-    background-repeat: no-repeat;
-    background-position: center;
-    font-size: 0px; }
+	background: #edc22e;
+	background-image: url("../im/facetilefinal.png"), -webkit-linear-gradient(270deg,rgba(233,219,30,1.00) 88.60%,rgba(255,206,0,1.00) 100%);
+	background-image: url("../im/facetilefinal.png"), -moz-linear-gradient(270deg,rgba(233,219,30,1.00) 88.60%,rgba(255,206,0,1.00) 100%);
+	background-image: url("../im/facetilefinal.png"), -o-linear-gradient(270deg,rgba(233,219,30,1.00) 88.60%,rgba(255,206,0,1.00) 100%);
+	background-image: url("../im/facetilefinal.png"), linear-gradient(180deg,rgba(233,219,30,1.00) 88.60%,rgba(255,206,0,1.00) 100%);
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	font-size: 0px;
+}
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
     background: #3c3a32;
