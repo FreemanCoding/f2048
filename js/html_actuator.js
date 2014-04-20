@@ -10,7 +10,7 @@ function HTMLActuator() {
   this.score = 0;
 }
 
-var dogeSayings = ['Vamos', 'Muy Bien', 'Ay Ay Ay', 'Muy Caliente', 'Fabuloso', 'ándale', 'Rapido']
+var dogeSayings = ['Vamos', 'Muy Bien', 'Ay Ay Ay', 'Muy Caliente', 'Fabuloso', 'ándale', 'Rapido', 'Me Gusta Tacos', 'Insert Witty Spanish Phrase']
 
 var ads = [
   '<a href="http://snackcompass.com/" target="_blank">Like Pizza?</a>',
