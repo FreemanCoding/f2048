@@ -10,7 +10,8 @@ function HTMLActuator() {
   this.score = 0;
 }
 
-var dogeSayings = ['Vamos', 'Muy Bien', 'Ay Ay Ay', 'Muy Caliente', 'Fabuloso', 'ándale', 'Rapido']
+var dogeSayings = ['such good', 'so amaze', 'many points', 'very unstoppable', 'great jorb', 'such playing', 'very good', 'points', 'very gaming', 'such player', 'concern' ,'bewildered',
+'many game', 'so good', 'very scores', 'so scoring', 'so hot right now', 'such playing', 'such matching', 'so matched', 'very matched', 'very neat' ,'such natural',]
 
 var ads = [
   '<a href="http://snackcompass.com/" target="_blank">Like Pizza?</a>',
